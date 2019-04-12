@@ -1,0 +1,55 @@
+wn - well of n-type
+an - active n
+ap - active p
+pg - gate - poly gate - red stripes
+m1 - metal 1
+cc - contacts
+m2 - metal 2
+v1 - connects m1 and m2
+m3
+m4
+m5
+v2
+v3
+v4
+xp
+cog
+bnd - boundry
+txt
+
+
+Shift - Snap Override
+Shift+Click - Deselect
+Ctrl - Jog in 45 wire tool
+
+circle radius 3 for measuring
+rounded rectangle, 10x0 r=3 for measuring 
+
+
+Alt+O - Origin
+F5 - Zoom Out
+F6 - Zoom In
+F7 - Zoom extents
+
+
+Order:
+CWN
+BND
+CAN
+CAP
+CM1
+
+
+
+1
+2
+3
+4
+6
+8
+9
+12
+16
+
+
+nand,nor 2,3,4
